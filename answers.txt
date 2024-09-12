@@ -10,3 +10,7 @@ Answer: Data science can be applied to almost any field. Data is present no matt
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the commits of two different branches into one branch, preserving the fact that there was at one point two versions of the project. Git rebase completely rewrites the structure of the history by pushing the branches to the tip of the main branch. This erases the fact that there was ever another branch at all, making the history look linear.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I'd like to get better at cleaning data! I am used to using datasets that have already been cleaned up so I don't have a lot of experience with working through raw or "real world" data. I'd also like to improve my SQL skills in particular, since my knowledge is a little shaky.
