@@ -6,3 +6,7 @@ Answer: Git is a version control system which makes it easier to keep track of i
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data science can be applied to almost any field. Data is present no matter what you are doing, and data science can help analyse or find connections in that data that people cannot see on their own. For example, data science is beneficial in banking and finance, where it can detect fraudulent patterns of withdrawals/deposits. This may help prevent check fraud or other kinds of theft.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the commits of two different branches into one branch, preserving the fact that there was at one point two versions of the project. Git rebase completely rewrites the structure of the history by pushing the branches to the tip of the main branch. This erases the fact that there was ever another branch at all, making the history look linear.
